@@ -1,6 +1,6 @@
 Name:		texlive-postage
 Version:	55920
-Release:	1
+Release:	2
 Summary:	Stamp letters with >>Deutsche Post<<'s service >>Internetmarke<<
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/postage
