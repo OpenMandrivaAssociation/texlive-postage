@@ -3,7 +3,7 @@ Version:	55920
 Release:	2
 Summary:	Stamp letters with >>Deutsche Post<<'s service >>Internetmarke<<
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/postage
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/postage
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/postage.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/postage.doc.r%{version}.tar.xz
